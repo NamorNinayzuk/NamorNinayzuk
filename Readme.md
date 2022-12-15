@@ -27,7 +27,7 @@
 Для получения зачета, вам необходимо выбрать cкриншот свойств страницы, созданной ВМ из личного кабинета YandexCloud.
 
 ####################################################################################
-https://monitoring.cloud.yandex.ru/folders/b1gffurvqv5esu4rb38r/service-dashboards/5j80tumoy8d42?p%5Bresource_id%5D=fhmjg4c41dct8bkdpko9&from=1670348927198&to=1670435327200&forceRefresh=1670435327194
+## ОтветЪ:
 ![image](https://user-images.githubusercontent.com/109209673/206273933-8ee6c45f-ef6c-41d4-8e30-92765884e118.png)
 
 
@@ -39,7 +39,7 @@ https://monitoring.cloud.yandex.ru/folders/b1gffurvqv5esu4rb38r/service-dashboar
 Для получения зачета, вам необходимо:
     • Скриншот работающего веб-интерфейса Grafana с текущими метриками, как показано ниже
 ####################################################################################
-##Ответъ
+## ОтветЪ:
 ![image](https://user-images.githubusercontent.com/109209673/206273977-d8cd748f-116f-47d7-8e99-e01ecf5273eb.png)
 
 
